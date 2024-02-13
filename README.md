@@ -1,2 +1,2 @@
-# Programaci-n-aplicada-la-Ingenier-a
-Programación aplicada la Ingeniería
+# Programación aplicada a la Ingeniería
+Programación aplicada a la Ingeniería
